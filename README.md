@@ -9,7 +9,7 @@ Dashboard Screenshots:
 
 https://github.com/taha5847/taha7.github/blob/main/Dashboard%20Pic1.png?raw=true
 
-
+https://github.com/taha5847/taha7.github/blob/86d8909e8c87d72e9af68b746a83fd6011889210/Dashboard%20Pic2.png
 
 ## Repository contents
 
