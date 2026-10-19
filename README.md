@@ -5,6 +5,11 @@ An end-to-end analytics project: a household renewable-energy dataset is stored 
 ```
 CSV  ──►  AWS S3  ──►  Snowflake (stage + COPY INTO)  ──►  SQL transformations  ──►  Tableau dashboard
 ```
+Dashboard Screenshots:
+
+https://github.com/taha5847/taha7.github/blob/main/Dashboard%20Pic1.png?raw=true
+
+
 
 ## Repository contents
 
